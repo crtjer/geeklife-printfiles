@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1800" height="2400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1800" height="2400" fill="#000000"/>
+  <text x="900" y="480" font-family="Courier New, monospace" font-size="100" font-weight="bold" fill="#FFFFFF" text-anchor="middle">THIS MEETING</text>
+  <text x="900" y="610" font-family="Courier New, monospace" font-size="82" font-weight="bold" fill="#FFFFFF" text-anchor="middle">COULD HAVE BEEN</text>
+  <text x="900" y="740" font-family="Courier New, monospace" font-size="100" font-weight="bold" fill="#FFFFFF" text-anchor="middle">A CRON JOB</text>
+  <text x="900" y="860" font-family="Courier New, monospace" font-size="36" font-weight="normal" fill="#FFFFFF" text-anchor="middle">─────────────────────────────</text>
+  <text x="900" y="990" font-family="Courier New, monospace" font-size="46" font-weight="bold" fill="#FFFFFF" text-anchor="middle">0 9 * * 1 ./send_the_update.sh</text>
+  <text x="900" y="1110" font-family="Courier New, monospace" font-size="36" font-weight="normal" fill="#FFFFFF" text-anchor="middle">─────────────────────────────</text>
+  <text x="900" y="1240" font-family="Courier New, monospace" font-size="40" font-weight="normal" fill="#FFFFFF" text-anchor="middle"># no one needs to be here</text>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1800" height="2400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1800" height="2400" fill="#000000"/>
+  <text x="900" y="550" font-family="Courier New, monospace" font-size="110" font-weight="bold" fill="#FFFFFF" text-anchor="middle">I AM THE</text>
+  <text x="900" y="700" font-family="Courier New, monospace" font-size="88" font-weight="bold" fill="#FFFFFF" text-anchor="middle">DOCUMENTATION</text>
+  <text x="900" y="820" font-family="Courier New, monospace" font-size="36" font-weight="normal" fill="#FFFFFF" text-anchor="middle">─────────────────────────────</text>
+  <text x="900" y="960" font-family="Georgia, serif" font-size="48" font-weight="normal" fill="#FFFFFF" text-anchor="middle">the original developer</text>
+  <text x="900" y="1060" font-family="Georgia, serif" font-size="48" font-weight="normal" fill="#FFFFFF" text-anchor="middle">left in 2019</text>
+  <text x="900" y="1180" font-family="Courier New, monospace" font-size="36" font-weight="normal" fill="#FFFFFF" text-anchor="middle">─────────────────────────────</text>
+  <text x="900" y="1310" font-family="Georgia, serif" font-size="40" font-weight="normal" fill="#FFFFFF" text-anchor="middle">I am the documentation</text>
+</svg>

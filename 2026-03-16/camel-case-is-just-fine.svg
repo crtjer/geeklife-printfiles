@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1800" height="2400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1800" height="2400" fill="#000000"/>
+  <text x="900" y="600" font-family="Courier New, monospace" font-size="72" font-weight="bold" fill="#FFFFFF" text-anchor="middle">camelCaseIsJustFineActually</text>
+  <text x="900" y="720" font-family="Courier New, monospace" font-size="36" font-weight="normal" fill="#FFFFFF" text-anchor="middle">─────────────────────────────</text>
+  <text x="900" y="850" font-family="Courier New, monospace" font-size="52" font-weight="bold" fill="#FFFFFF" text-anchor="middle">camelCase</text>
+  <text x="900" y="960" font-family="Courier New, monospace" font-size="52" font-weight="bold" fill="#FFFFFF" text-anchor="middle">snake_case</text>
+  <text x="900" y="1070" font-family="Courier New, monospace" font-size="52" font-weight="bold" fill="#FFFFFF" text-anchor="middle">PascalCase</text>
+  <text x="900" y="1180" font-family="Courier New, monospace" font-size="52" font-weight="bold" fill="#FFFFFF" text-anchor="middle">kebab-case</text>
+  <text x="900" y="1300" font-family="Courier New, monospace" font-size="36" font-weight="normal" fill="#FFFFFF" text-anchor="middle">─────────────────────────────</text>
+  <text x="900" y="1430" font-family="Georgia, serif" font-size="44" font-weight="normal" fill="#FFFFFF" text-anchor="middle">whatever the linter says</text>
+</svg>

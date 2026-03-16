@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1800" height="2400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1800" height="2400" fill="#000000"/>
+  <text x="900" y="550" font-family="Courier New, monospace" font-size="110" font-weight="bold" fill="#FFFFFF" text-anchor="middle">I SELF-HOST</text>
+  <text x="900" y="700" font-family="Courier New, monospace" font-size="110" font-weight="bold" fill="#FFFFFF" text-anchor="middle">MY REGRETS</text>
+  <text x="900" y="820" font-family="Courier New, monospace" font-size="36" font-weight="normal" fill="#FFFFFF" text-anchor="middle">─────────────────────────────</text>
+  <text x="900" y="960" font-family="Georgia, serif" font-size="44" font-weight="normal" fill="#FFFFFF" text-anchor="middle">(and my email, my calendar,</text>
+  <text x="900" y="1060" font-family="Georgia, serif" font-size="44" font-weight="normal" fill="#FFFFFF" text-anchor="middle">my VPN...</text>
+  <text x="900" y="1160" font-family="Georgia, serif" font-size="44" font-weight="normal" fill="#FFFFFF" text-anchor="middle">but mostly my regrets)</text>
+</svg>
